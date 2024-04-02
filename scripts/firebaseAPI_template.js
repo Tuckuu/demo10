@@ -7,8 +7,8 @@ var firebaseConfig = {
     projectId: ,
     storageBucket: ,
     messagingSenderId: ,
-    appId:
-};
+    appId: 
+  };
 
 //--------------------------------------------
 // initialize the Firebase app
